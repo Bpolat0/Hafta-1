@@ -33,9 +33,14 @@ public class Main {
                 System.out.println("Sonuç : " + result);
                 break;
             case 4:
-                result = numberOne / numberTwo;
-                System.out.println("Sonuç : " + result);
+                if (numberTwo != 0) {
+                    result = numberOne / numberTwo;
+                    System.out.println("Sonuç : " + result);
+                }
+                else
+                    System.out.println("Bir Sayı 0'a Bölünemez!");
                 break;
+
             default:
                 System.out.println("Hatalı Tuşlama Yaptınız!");
         }
