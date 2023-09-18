@@ -1,12 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6132342c-bf18-413e-b96e-892acb742b1f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Pratik 19 - Girilen Sayidan Kucuk 2nin Kuvvetlerini Bulan Program/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pratik 19 - Girilen Sayidan Kucuk 2nin Kuvvetlerini Bulan Program/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pratik 20 - Kombinasyon Hesaplayan Program/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pratik 20 - Kombinasyon Hesaplayan Program/src/Main.java" afterDir="false" />
+    <list default="true" id="254ec39f-f31a-4f64-a88d-69984204651e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 22 - Armstrong Sayilari Bulan Program/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 22 - Armstrong Sayilari Bulan Program/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Pratik 22 - Armstrong Sayilari Bulan Program/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 22 - Armstrong Sayilari Bulan Program/Pratik 23 - Armstrong Sayilari Bulan Program.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 23 - Harmonik Sayilari Bulan Program/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Pratik 23 - Harmonik Sayilari Bulan Program/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 23 - Harmonik Sayilari Bulan Program/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 23 - Harmonik Sayilari Bulan Program/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Pratik 23 - Harmonik Sayilari Bulan Program/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 23 - Harmonik Sayilari Bulan Program/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Pratik 23 - Harmonik Sayilari Bulan Program/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 23 - Harmonik Sayilari Bulan Program/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Pratik 23 - Harmonik Sayilari Bulan Program/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 23 - Harmonik Sayilari Bulan Program/Pratik 22 - Harmonik Sayilari Bulan Program.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 23 - Harmonik Sayilari Bulan Program/Pratik 24 - Harmonik Sayilari Bulan Program.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 23 - Harmonik Sayilari Bulan Program/out/production/Pratik 22 - Harmonik Sayilari Bulan Program/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 23 - Harmonik Sayilari Bulan Program/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pratik 23 - Harmonik Sayilari Bulan Program/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pratik 23 - Yildizlar ile Ucgen Yapimi.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pratik 25 - Yildizlar ile Ucgen Yapimi.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Pratik 23 - Yildizlar ile Ucgen Yapimi/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 25 - ATM Projesi/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 25 - ATM Projesi/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 25 - ATM Projesi/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 25 - ATM Projesi/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 25 - ATM Projesi/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 25 - ATM Projesi/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 25 - ATM Projesi/Pratik 24 - ATM Projesi.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 25 - ATM Projesi/Pratik 26 - ATM Projesi.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 25 - ATM Projesi/out/production/Pratik 24 - ATM Projesi/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 25 - ATM Projesi/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 25 - EBOB ve EKOK Bulan Program/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 26 - EBOB ve EKOK Bulan Program/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 26 - EBOB ve EKOK Bulan Program/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 26 - EBOB ve EKOK Bulan Program/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 26 - EBOB ve EKOK Bulan Program/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 26 - EBOB ve EKOK Bulan Program/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 26 - EBOB ve EKOK Bulan Program/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 26 - EBOB ve EKOK Bulan Program/Pratik 25 - EBOB ve EKOK Bulan Program.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 26 - EBOB ve EKOK Bulan Program/Pratik 27 - EBOB ve EKOK Bulan Program.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 26 - EBOB ve EKOK Bulan Program/out/production/Pratik 25 - EBOB ve EKOK Bulan Program/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 26 - EBOB ve EKOK Bulan Program/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 27 - Girilen Sayilardan Min ve Max Degerleri Bulma/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 27 - Girilen Sayilardan Min ve Max Degerleri Bulma/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 27 - Girilen Sayilardan Min ve Max Degerleri Bulma/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 27 - Girilen Sayilardan Min ve Max Degerleri Bulma/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 27 - Girilen Sayilardan Min ve Max Degerleri Bulma/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 27 - Girilen Sayilardan Min ve Max Degerleri Bulma/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 27 - Girilen Sayilardan Min ve Max Degerleri Bulma/Pratik 26 - Girilen Sayilardan Min ve Max Degerleri Bulma.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 27 - Girilen Sayilardan Min ve Max Degerleri Bulma/Pratik 28 - Girilen Sayilardan Min ve Max Degerleri Bulma.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 27 - Girilen Sayilardan Min ve Max Degerleri Bulma/out/production/Pratik 26 - Girilen Sayilardan Min ve Max Degerleri Bulma/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 27 - Girilen Sayilardan Min ve Max Degerleri Bulma/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 28 - Mukemmel Sayi Bulan Program/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 28 - Mukemmel Sayi Bulan Program/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 28 - Mukemmel Sayi Bulan Program/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 28 - Mukemmel Sayi Bulan Program/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 28 - Mukemmel Sayi Bulan Program/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 28 - Mukemmel Sayi Bulan Program/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 28 - Mukemmel Sayi Bulan Program/Pratik 27 - Mukemmel Sayi Bulan Program.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 28 - Mukemmel Sayi Bulan Program/Pratik 29 - Mukemmel Sayi Bulan Program.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 28 - Mukemmel Sayi Bulan Program/out/production/Pratik 27 - Mukemmel Sayi Bulan Program/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 28 - Mukemmel Sayi Bulan Program/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 29 - Ters Ucgen Yapimi/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 29 - Ters Ucgen Yapimi/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 29 - Ters Ucgen Yapimi/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 29 - Ters Ucgen Yapimi/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 29 - Ters Ucgen Yapimi/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 29 - Ters Ucgen Yapimi/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 29 - Ters Ucgen Yapimi/Pratik 28 - Ters Ucgen Yapimi.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 29 - Ters Ucgen Yapimi/Pratik 30 - Ters Ucgen Yapimi.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 29 - Ters Ucgen Yapimi/out/production/Pratik 28 - Ters Ucgen Yapimi/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 29 - Ters Ucgen Yapimi/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 30 - 1-100 Arasindaki Asal Sayilari Bulan Program/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 30 - 1-100 Arasindaki Asal Sayilari Bulan Program/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 30 - 1-100 Arasindaki Asal Sayilari Bulan Program/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 30 - 1-100 Arasindaki Asal Sayilari Bulan Program/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 30 - 1-100 Arasindaki Asal Sayilari Bulan Program/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 30 - 1-100 Arasindaki Asal Sayilari Bulan Program/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 30 - 1-100 Arasindaki Asal Sayilari Bulan Program/Pratik 29 - 1-100 Arasindaki Asal Sayilari Bulan Program.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 30 - 1-100 Arasindaki Asal Sayilari Bulan Program/Pratik 31 - 1-100 Arasindaki Asal Sayilari Bulan Program.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 30 - 1-100 Arasindaki Asal Sayilari Bulan Program/out/production/Pratik 29 - 1-100 Arasindaki Asal Sayilari Bulan Program/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 30 - 1-100 Arasindaki Asal Sayilari Bulan Program/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 31 - Fibonacci Serisi/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 31 - Fibonacci Serisi/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 31 - Fibonacci Serisi/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 31 - Fibonacci Serisi/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 31 - Fibonacci Serisi/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 31 - Fibonacci Serisi/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 31 - Fibonacci Serisi/Pratik 30 - Fibonacci Serisi.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 31 - Fibonacci Serisi/Pratik 32 - Fibonacci Serisi.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 31 - Fibonacci Serisi/out/production/Pratik 30 - Fibonacci Serisi/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pratik 31 - Fibonacci Serisi/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/untitled.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,39 +111,33 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 5
-}</component>
-  <component name="ProjectId" id="2VWyTicSnGSwGiwbsMYQ23SiTrj" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2VXw0T4G9tUyRU8n7tESb3XFhtO" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/minec/IdeaProjects/PatikaPlus/Hafta-1/Pratik 23 - Yildizlar ile Ucgen Yapimi/src/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "onboarding.tips.debug.path": "C:/Users/minec/IdeaProjects/PatikaPlus/Hafta-1/Pratik 24 - Yildizlar ile Ucgen Yapimi/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6132342c-bf18-413e-b96e-892acb742b1f" name="Changes" comment="" />
-      <created>1694966140992</created>
+      <changelist id="254ec39f-f31a-4f64-a88d-69984204651e" name="Changes" comment="" />
+      <created>1694995511015</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1694966140992</updated>
-      <workItem from="1694966142004" duration="5928000" />
-      <workItem from="1694979763711" duration="20000" />
-      <workItem from="1694991845162" duration="13000" />
+      <updated>1694995511015</updated>
+      <workItem from="1694995512011" duration="23000" />
     </task>
     <servers />
   </component>

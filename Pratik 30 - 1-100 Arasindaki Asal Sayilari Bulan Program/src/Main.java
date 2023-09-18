@@ -13,7 +13,7 @@ public class Main {
             }
 
             if (asalMi) {
-                System.out.println(k);
+                System.out.print(k+",");
             }
         }
     }
